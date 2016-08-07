@@ -8,3 +8,5 @@ Videos. You can name is anything. Add your contnet in the page and publish this 
 
 Second, add the functions from the functions.php file to your child theme functions.php file. Go through the comments
 and change things accordingly.
+
+Read more about this <a href="https://ayanize.com/snippets/how-to-create-a-custom-end-point-or-a-private-page-for-customers/" target+"_blank">in details here</a>.
